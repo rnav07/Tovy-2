@@ -12,7 +12,7 @@
   </ul>
   <h2>About</h2>
   <p>
-    Tovy is an open source staff management platform inspired by Hyra. It allows Roblox groups to manage their group members in a more intuitive and powerful way, while still being simple to use.
+    Tovy is a open source staff management platform inspired by Hyra. It allows Roblox groups to manage their group members in a more intuitive and powerful way, while still being simple to use.
   </p>
   <h2>Why consider</h2>
   <ul>
